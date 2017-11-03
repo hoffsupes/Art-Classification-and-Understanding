@@ -8,6 +8,8 @@ https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm
 2.) Download code
 
 command line$ npm install
+
+
 command line$ npm start
 
 Open the server at the address output in the console. (Please use mozilla firefox, this code may not run on other browsers)
